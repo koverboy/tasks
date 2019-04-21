@@ -68,7 +68,7 @@ ul :hover {
 .main__image {
 
     text-align: center;
-    background-image: url("images/mainImg.jpg");
+    background-image: url("assets/mainImg.jpg");
     width: 100%;
     height: 600px;
     display: inline-block;
@@ -221,7 +221,7 @@ ul :hover {
 }
 
 .footer {
-    background: url("images/Rectangle.png");
+    background: url("assets/Rectangle.png");
     background-size: cover;
     height: 500px;
 }
